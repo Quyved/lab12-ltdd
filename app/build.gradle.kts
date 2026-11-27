@@ -57,6 +57,7 @@ android {
 }
 
 dependencies {
+    implementation("com.google.android.gms:play-services-ads:22.2.0")
 
     implementation(platform("androidx.compose:compose-bom:2024.12.01"))
 
